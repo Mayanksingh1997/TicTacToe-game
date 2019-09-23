@@ -1,0 +1,23 @@
+.big-ims{
+    background-color: #6A89CC;
+    background-size: 85%;
+    /* background-position: center; */
+}
+h1{
+    color: #2B2B52;
+}
+/* p{
+    color: #AE1438
+} */
+.big-im{
+    background-image: url('image.jpg');
+    background-size: 150%;
+    background-position: center;
+}
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 100px;
+}
